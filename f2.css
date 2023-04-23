@@ -1,0 +1,775 @@
+.contain{background-color: white;
+width:40cm;
+height: 90cm;
+}
+
+.hari{background-color: white;
+width: 40cm;
+height: 40cm;}
+
+
+.header{    width: 100%;
+    height: 61px;
+    background-color: #38c045;
+}
+
+
+
+
+.menu{width: 100%;
+    height: 58px;
+    background-color:#2874f0
+}
+
+
+.headline{    width: 15%;
+    height: 100%;
+}
+.imageheading{margin-left: 106px;
+    margin-top: 22px
+}
+
+
+.search{margin-left: 195px;
+    margin-top: -62px;
+    width: 40%;
+    height: 100%;
+}
+
+.searchbar{     width: 100%;
+    border-color: #fff;
+    height: 55%;
+}
+
+.searchkey{}
+
+
+.login{margin-left: 835px;
+    margin-top: -37px;
+    width: 10%;
+    height: 100%;;
+};
+
+
+.loginbutton{height: 30px;
+    color: blue;
+    width: 53%;
+    text-align: center;
+    margin-top: 20px;
+    background-color: white;
+    border-color: #fff;
+}
+
+
+.become{    margin-left: 961px;
+    margin-top: -97px;
+    width: 13%;
+    height: 100%;
+;
+}
+.becomeaseller{    margin-left: 45px;
+    margin-top: 24px;
+    width: 74%;
+    height: 100%;
+    font-size: 17px;
+    padding-top: 17px;
+    color: white;
+    font-family: revert;
+};
+
+.moree{   margin-left: 980px;
+    margin-top: -97px;
+    width: 13%;
+    height: 100%;
+    background-color: rgb(81, 42, 165);
+}
+.moreclass{font-size: 17px;
+    font-weight: 500;
+    font-size: 17px;
+    font-weight: 500;
+    margin-left: 55px;
+    margin-top: 181px;
+    padding-bottom: 29px;
+    color: white;}
+
+
+.cart{margin-left: 1347px;
+    margin-top: -23px;
+    width: 10%;
+    height: 100%;
+    color: white;
+}
+
+
+.fafa-shopping-cart{}
+.cartclass{margin-left: 36px;
+    margin-top: -22px;
+}
+
+.arrow{margin-left: 8px;
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg)
+}
+
+.arrowback{fill: #878787;
+    opacity: .5;
+}
+
+.catagory{
+    width: 100%;
+    color: black;
+    height: 96px;
+    margin-bottom: -32px;}
+
+
+.empty1{width: 5%;
+    height: 100%;
+   
+}
+.ecdiv{width: 10%;
+    height: 100%;
+    margin-left: 66px;
+    margin-top: -98px;
+}
+
+.ecimg{height: 70%;}
+.electronics{}
+
+
+
+
+.mobilediv{  margin-left: 217px;
+    margin-top: -96px;
+    width: 10%;
+    height: 100%;
+}
+
+.mobileimagediv{
+
+}
+
+.mobileimage{width: 65px;
+    margin-left: 37px;
+    margin-top: 4px;
+}
+
+.mobileword{margin-left: 12px;}
+
+
+
+
+
+.electrocsdiv{width: 10%;
+    height: 100%;
+    margin-left: 368px;
+    margin-top: -97px;
+}
+
+.electronicsimagediv{    width: 151px;
+    height: 70%;}
+
+.electronicsimage{width: 65px;
+    margin-left: 37px;
+    margin-top: 4px;
+}
+
+.electronicsword{    margin-left: 35px;}
+
+
+
+
+
+
+.tvappdiv{
+    width: 10%;
+    height: 100%;
+    margin-top: -95px;
+    margin-left: 520px;
+}
+
+.tvappimagediv{   
+    height: 70%;
+}
+
+.tvappimage{   width: 65px;
+    margin-left: 37px;
+    margin-top: 4px;
+}
+
+.tvappword{    margin-left: 14px;}
+
+
+
+
+
+
+.fashiondiv{   
+    width: 10%;
+    height: 100%;
+    margin-top: -95px;
+    margin-left: 672px;
+}
+.fashionimagediv{height: 70%;
+   
+}
+.fashionimage{   width: 65px;
+    margin-left: 37px;
+    margin-top: 4px;
+}
+.fashionword{    margin-left: 28px;}
+
+
+
+.homefurdiv{
+    width: 10%;
+    height: 100%;
+    margin-top: -96px;
+    margin-left: 974px;
+}
+.homefurimagediv{
+    height: 70%;
+}
+.homefurimage{width: 65px;
+    margin-left: 37px;
+    margin-top: 4px;
+}
+.homefurword{margin-left: 10px;
+}
+
+
+
+.beautydiv{    width: 10%;
+    height: 100%;
+    margin-top: -97px;
+    margin-left: 823px;
+}
+.beautyimagediv{
+    height: 70%;
+}
+.beautyimage{   width: 65px;
+    margin-left: 37px;
+    margin-top: 4px;}
+.beautyword{margin-left: 47px;
+}
+
+
+
+
+
+.flightdiv{
+    width: 10%;
+    height: 100%;
+    margin-top: -96px;
+    margin-left: 1125px;
+}
+.flightimagediv{
+    height: 70%;
+}
+.flightimage{width: 65px;
+    margin-left: 37px;
+    margin-top: 4px;
+}
+.flightword{margin-left: 39px;}
+
+
+
+
+
+.Grocerydiv{
+    width: 10%;
+    height: 100%;
+    margin-top: -96px;
+    margin-left: 1276px;
+}
+.Groceryimagediv{height: 70%;
+}
+.Groceryimage{width: 66px;
+    margin-left: 37px;
+    margin-top: 6px
+}
+.Groceryword{    margin-left: 48px;}
+
+
+
+
+
+.topoffers{   width: 65px;
+    margin-left: 37px;
+    margin-top: 4px;
+}
+.top{margin-left: 26px;}
+
+.men{    margin-left: 327px;
+    margin-top: -29px;
+    height: 100%;
+    width: 10%;
+}
+.women{margin-left: 420px;;
+    margin-top: -29px;
+    width: 10%;
+    height: 100%;
+}
+.baby{margin-left: 558px;
+    margin-top: -29px;
+    width: 10%;
+    height: 100%;
+}
+.home{       margin-left: 676px;
+    margin-top: -29px;
+    width: 15%;
+    height: 100%;
+    
+}
+.sports{margin-left: 846px;
+    margin-top: -29px;
+    height: 100%;
+    width: 20%;
+}
+.flight{margin-left:1050px;
+    margin-top: -29px;
+    width: 10%;
+    height: 100%;
+}
+.offer{margin-left:1141px;
+    margin-top: -29px;
+    width: 10%;
+    hight: 100%;
+    height: 100%;
+}
+.empty2{width: 5%;
+    margin-left: 1233px;
+    height: 100%;
+    margin-top: -29px;
+}
+
+       .main{}
+       .imagediv{}
+       .image{height: 438px;
+        width: 100%;}
+
+
+       .popular{    width: 29cm;}
+       .popularimg{width: 100%;
+        margin-left: 178px;;}
+
+       .imageheaddiv{width: 100%;
+        margin-top: 30px;
+        height: 72px;
+    }
+       .onlinefur{}
+       .imagehead{}
+        
+
+
+       .showcase{    width: 100%;
+        height: 7cm;
+        margin-top: 17px;}
+       .show1{    height: 101%;
+        margin-left: 10px;
+        width: 30%;
+    }
+      
+
+        .mob1{      margin-top: 14px;
+            width: 100%;
+            height: 93%;
+            margin-left: 9px;
+        
+        }
+       .show2{
+        width: 33.3%;
+    height: 1005;
+    margin-left: 489px;
+    height: 95%;
+    margin-top: -240px;
+    margin-bottom: 2px;}
+
+        .mob2{       margin-top: -12px;
+            width: 98%;
+            height: 98%;
+        }
+        
+
+       .show3{      
+        
+        width: 100%;
+        height: 93%;
+        margin-top: -253px;
+        margin-left: 999px;
+    }
+    
+    
+
+    .mob3{  
+        margin-top: -14px;
+        width: 33%;
+        height: 100%;}
+
+
+       .images{display: -ms-flexbox;
+        display: flex;
+        -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-align-items: stretch;
+        -ms-flex-align: stretch;
+        align-items: stretch;
+    }
+
+       .images1{width: 100%;
+        height: 10cm;
+        background-color:white;
+    }
+
+    .prohead{    width: 117px;
+        margin-left: 41px;}
+
+    .viewall1{    background: #2874f0;
+        color: #fff;
+        box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+        border: none;
+        text-decoration: none;
+        margin-left: 53px;}
+    .ph1{}
+
+
+
+.gallery{
+width: 100%;
+height:28cm;;}
+
+
+.ph11{text-align: center;
+    font-size: larger;
+    color: black;
+    font-family: emoji;}
+
+
+.toyimage1{    height: 120px;
+    width: 214px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.card{width:auto}
+
+.card-img-top1{}
+
+.one{
+    width:13%;
+    height: 25%;
+    margin-top: 37px;}
+
+
+     .two{
+        margin-left: 13%;
+        width: 87%;
+        margin-bottom: 3%;
+        height: 226px;
+        margin-top: -265px;
+        }
+
+
+.bed1{ margin-top: 21px;
+    width: 100%;
+    height: 100%;}
+.bed2{ margin-top: 21px;
+    width: 100%;
+    height: 100%;}
+.bed3{ margin-top: 21px;
+    width: 100%;
+    height: 100%;}
+
+    .showcase2{    width: 100%;
+        margin-top: 2px;
+        height: 7cm;
+    }
+
+   .show10{}
+
+    .show30{
+        width: 33.3%;
+        height: 96%;
+        margin-left: 1000px;
+        margin-top: -254px;}
+
+        .show20{
+            width: 33.3%;
+            height: 1005;
+            margin-left: 489px;
+            height: 95%;
+            margin-top: -240px;
+            margin-bottom: 2px;
+        }
+
+        .show100{       width: 32%;
+            height: 100%;
+            margin-left: 14px;
+            margin-top: 118px;}
+        .show200{       width: 32%;
+            margin-left: 34%;
+            height: 100%;
+            margin-top: -261px;
+        }
+        .show300{    width: 32%;
+            margin-left: 67%;
+            margin-top: -260px;}
+
+            .set1{
+
+            }
+
+            .set2{}
+
+            .set3{}
+
+
+    
+.three{
+    width: 100%;
+    padding-top: -301px;
+    height: 39%;
+    /* margin-bottom: 10cm; */
+    margin-top: -315px;
+    }
+
+    .four{       margin-left: 13%;
+    width: 87%;
+    margin-bottom: 33%;
+    margin-top: -401px;
+    height: 251px;
+}
+    
+
+
+
+
+    
+    
+
+        .toyimage{height: 120px;
+            width: 236px;
+            margin-top: 45px;}
+
+              .prohead11{       font-size: 22px;
+                width: 192px;
+                font-style: normal;}
+
+
+                .prohead5{width: 117px;
+                    margin-left: 41px;}
+
+                .viewall5{ background: #2874f0;
+                    color: #fff;
+                    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+                    border: none;
+                    text-decoration: none;
+                    margin-left: 53px}
+
+                .ph5{}
+
+                .p5img{}
+
+
+                  .toyimage5{    height: 120px;
+                    width: 228px;
+                    margin-top: 45px;
+                  }
+
+
+
+              .five{        
+                width: 100%;
+                padding-top: -301px;
+                height: 6%;
+                padding-top: 17px;
+                margin-top: -537px;
+                margin-bottom: 219px;}
+
+            .showcase3{margin-top: 91px;
+            }
+              .six{
+                margin-left: 13%;
+                width: 87%;
+                margin-bottom: -110%;
+                margin-top: -197px;
+                height: 147%;
+            
+            
+            }
+              .toyimage2{height: 10px;
+                width: 164px;
+                margin-top: 30px;}
+
+
+
+                .prohead7{}
+                .ph7{}
+                .toyimage7{ height: 120px;
+                    width: 228px;
+                    margin-top: 45px;
+                  }
+
+
+
+
+                .seven{
+                    width: 100%;
+                    padding-top: -301px;
+                    height: 102%;
+                    padding-top: 17px;
+                    margin-top: -406px;
+                    margin-top: -18px;
+                    margin-bottom: 62px;
+                    }
+
+                    .eight{     margin-left: 13%;
+                        width: 87%;
+                        margin-bottom: 11%;
+                        margin-top: -196px;
+                        height: 91%;
+                    }
+
+
+                    .toyimage3{}
+           
+          
+
+
+          .brand{height: 50%;
+            background-color: white;
+            margin-bottom: 25%;
+            margin-top: 3px;
+            text-align: center;
+            color: slategrey;}
+
+            .mid{font-size: 1rem;
+                color: green;
+                text-align: center;}
+
+
+                .policy{width: 100%;
+                    height: 30cm;
+                    margin-top: 644px;
+                    background-color: white;}
+
+            .write {
+                color: dimgrey;}
+
+                 p{color:dimgrey
+                ;font-size: medium;
+            font-weight: bold;}
+
+            .catagoryend{width: 100%;
+            height: 6cm;
+        background-color: blueviolet;}
+
+
+        .footer{background-color: #141441;;
+        width: 100%;
+    height: 10cm;}
+
+    .table1{width: 100%;
+    height: 70%;
+}
+    .last1{width: 15%;
+        margin-left: 69px;
+        height: 100%;
+        
+        margin-bottom: 11px;}
+
+        .lowernormal{       text-decoration: none;
+            font-size: 13px;
+            color: white;
+
+        }
+
+        .lowerhead{color:dimgrey;;
+        }
+
+.last2{width: 15%;
+    margin-left: 290px;
+    height: 100%;
+    margin-top: -264px;
+}
+.last3{width: 15%;
+    height: 100%;
+    margin-left: 497px;
+    margin-top: -265px;
+}
+.last4{width: 15%;
+    height: 100%;
+    margin-left: 745px;
+    margin-top: -265px;
+
+}
+.last5{width: 15%;
+    margin-left: 931px;
+    height: 100%;
+    margin-top: -265px;
+}
+       .last6{    width: 15%;
+        margin-left: 1191px;
+        height: 100%;
+        margin-top: -264px;}
+
+        .break{    color: white;
+            margin-top: 6px;
+        }
+
+        .finaldiv{background-color:#141441;
+            width: 100%;
+            height: 108px;}
+
+            .lastmain{
+                background-color: chartreuse;
+                width: 100%;
+                height: 50%;
+            }
+
+            .becomesellerimg{margin-top: -130px;
+                margin-left: 46px;
+            }
+
+            .becomesellerword{    margin-top:-86px;
+    margin-left: 69px;
+    color: white;
+}
+
+            .advertisepic{    margin-top: -81px;
+                margin-left: 239px;
+            }
+                .advertise{margin-top: -63px;
+                    margin-left: 262px;
+                    color: white;
+                }
+
+            .giftcards{margin-top: -40px;
+                margin-left: 413px;;
+                color: white;
+            }
+
+            .giftcardimg{margin-top: -86px;
+                margin-left: 389px;
+            }
+
+            .help{    margin-top: -63px;
+                margin-left: 605px;
+                color: white;
+            }
+
+            .helpimg{    margin-top: -84px;
+                margin-left: 584px;}
+
+            .com{margin-top: -65px;
+                margin-left: 785px;
+                color: white;
+            }
+            
+            
+
+            .atm{      margin-top: -89px;
+                margin-left: 1056px;
+            }
